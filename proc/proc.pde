@@ -2,7 +2,7 @@ import java.util.Arrays;
 import processing.serial.*;
 import processing.video.*;
 
-final static boolean DEBUGGING_NO_ARDUINO = false;
+final static boolean DEBUGGING_NO_ARDUINO = true;
 // true: a mouse-based demo. false: connects to the hardware. 
 final static int COM = 3;
 // Port ID. In console log, look for the bluetooth port. 
