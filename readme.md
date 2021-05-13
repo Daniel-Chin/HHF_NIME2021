@@ -65,4 +65,4 @@ Finally, upload `./ardu/ardu.ino` to the Arduino.
 - Connect the sensorBox sensor data pins to SDA and SCL on your Arduino.  
 - Use the battery to power the Arduino.  
 
-Again, if you have questions about any of the above step, please refer to the "contact me" section above.  
+Again, if you have questions about any of the above steps, please refer to the "contact me" section above.  
